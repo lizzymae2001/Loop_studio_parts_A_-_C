@@ -48,3 +48,4 @@ while (j < num){
   j++;
 }
   
+  //need to look into how to do this more efficiently
